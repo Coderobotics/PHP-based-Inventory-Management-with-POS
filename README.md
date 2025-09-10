@@ -1,5 +1,35 @@
 # PHP-based-Inventory-Management-with-POS
 
-InvyGist is an Inventory Management with POS System. You can easily manage your product, supplier, sales, and customer, purchase order, business campaign, etc. It also calculates your business profit or loss. InvyGist is easy to install, User-friendly responsive design, Mobile compatibility. In Dashboard, you can see Yearly sales report with graph chart, Total revenue, cost, tax details, Latest order details, new added Product. Add supplier, Manage all suppliers, Purchase product from a supplier, Invoice generate, Supplier history with purchase record. Add customer, Manage customer, Customer discount, Email campaign for the customer, Send invoice to the customer by email.
+InvyMgmt is an Inventory with POS PHP software, It is developed in PHP with MySQL database that allows you to manage your sales and stock. Application has an Easy POS system for faster billing. Inventory Management has Sales & Sales Return Invoices as well as Payments, Purchase & Purchase Return Invoices as well as Payments, Customers information (Customers Bulk Import), Suppliers information (Suppliers Bulk Import), Expense information, Tax & Tax Grouping, Units, Categories, Items(Items Bulk Import), Brands and business required Reports and much more. Very responsive template used, Advanced reports for review like Sales report, Purchase Reports, Sales Payments Reports, Purchase Payments Reports, Profit & Loss Reports, Expense Reports, Customer reports, Suppliers reports, Stock Report.
 
-# Download - https://www.phpscriptsonline.com/product/invy-gist/
+<img src="https://www.phpscriptsonline.com/frontend/assets/templates/inventory-php-software-source-code.jpg">
+
+<b>Inventory and POS Management Script has following key features:</b>
+
+<ul>
+<li>Dashboard</li>
+<li>Sales</li>
+<li>Customers</li>
+<li>Purchase</li>
+<li>Suppliers</li>
+<li>Items</li>
+<li>Expenses</li>
+<li>Reports</li>
+<li>Users</li>
+<li>SMS</li>
+<li>Settings</li>
+<li>POS</li>
+<li>Invoice</li>
+</ul>
+
+More details and download project
+https://www.phpscriptsonline.com/product/inventory-and-pos-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
